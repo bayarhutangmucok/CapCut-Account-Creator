@@ -23,7 +23,7 @@ pip install selenium requests webdriver-manager
 ## Setup
 
 1. **Webhook URL**:
-   - Replace the placeholder `WEBHOOK_URL` in the script with your actual Discord webhook URL.
+   - Replace the placeholder `[WEBHOOK_URL](https://discord.com/api/webhooks/1385361749250801775/DaB-W7wibeGtxr9nkbha9jX4W_c_lSIyZpjMNq8HtMaHlzTtwqFsMF6Aqi0KQRkvGKs_)` in the script with your actual Discord webhook URL.
    - You can create a webhook URL by going to your Discord server's settings -> Integrations -> Webhooks.
 
 2. **Verification Email**:
@@ -33,7 +33,7 @@ pip install selenium requests webdriver-manager
 3. **Password**:
    - The script uses the password `BumBum11!`. If you want to change it, modify the following line in the script:
      ```python
-     password = "BumBum11!"
+     password = "masuk123"
      ```
 
 ## How to Use
